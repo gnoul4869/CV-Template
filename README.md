@@ -1,2 +1,2 @@
-# CV-Template
- CV Template using only HTML
+# Personal Website Template
+ Personal Website Template using only HTML
