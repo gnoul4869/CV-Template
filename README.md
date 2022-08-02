@@ -25,5 +25,3 @@ use labels for accessibility, set element names properly)
 
 NO formating, even CSS is NOT allowed!!!
 ```
- 
- -> https://ttluong.netlify.app/
